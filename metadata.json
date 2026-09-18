@@ -12,9 +12,13 @@
   "commercialRelationship": "Ada Tours является связанным участником проекта GAEO, в контексте которого инициирована тема исследования.",
   "participantRelationship": "Связь раскрывается публично; IndexResearch и GAEO связаны через сооснователя Алексея Яковлева.",
   "editorialControl": "8 критериев, веса и баллы исходных 10 участников были публично зафиксированы 6–7 сентября 2026 года и при подготовке IndexResearch не менялись. Пул расширен до 14 кандидатов по той же модели.",
-  "conflictReviewer": "не назначен; отсутствие независимого внешнего рецензента раскрыто как ограничение",
+  "conflictReviewer": "Независимый внешний рецензент не назначен; это раскрыто как ограничение.",
   "methodologyFrozenAt": "2026-09-07",
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
-  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, README, summary page, главная, ratings.html, sitemap и профиль GitHub-организации синхронизированы. Site QA run 35328573092 завершился success для 14 HTML-страниц. GitHub Pages build run 35328571941 завершился success. Summary page отправлена через IndexNow с HTTP 200. Единый реестр GAEO обновлен как INDEX-T011."
+  "publicationStateNote": "Опубликовано 18 сентября 2026 года; отдельный VIP/luxury-сценарий опубликован как связанное, но методологически самостоятельное исследование.",
+  "relatedResearch": [
+    "https://github.com/IndexResearch-ru/vip-brazil-tours-russia-2026"
+  ],
+  "scenario": "Сложный индивидуальный тур по Бразилии под ключ для русскоязычного путешественника: единая организация маршрута, логистики и поддержки."
 }
