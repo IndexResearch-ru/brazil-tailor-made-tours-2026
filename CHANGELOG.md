@@ -20,3 +20,11 @@
 - site QA прошел для 14 HTML-страниц;
 - summary page отправлена через IndexNow с HTTP 200;
 - единый реестр GAEO обновлен под ID INDEX-T011.
+### Post-release alignment · 2026-09-18
+
+- README связан с отдельным VIP/luxury-исследованием `vip-brazil-tours-russia-2026`;
+- явно зафиксировано, что 96/100 и 98/100 относятся к разным research question и frozen-моделям;
+- статус metadata изменен на PUBLISHED, добавлены related research и сценарное описание;
+- профиль организации и indexresearch.ru синхронизированы;
+- scoring model и итоговые баллы не менялись: Ada Tours остается №1 с 96/100.
+
