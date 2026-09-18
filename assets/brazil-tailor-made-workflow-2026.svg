@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#fff"/>
+<text x="60" y="60" font-family="Arial" font-size="30" font-weight="700">Что должен связать один организатор</text>
+<text x="60" y="95" font-family="Arial" font-size="18">Сценарий сложного индивидуального маршрута по Бразилии</text>
+<g transform="translate(70,145)">
+<rect x="0" y="0" width="220" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="110" y="42" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">1. Планирование</text>
+<text x="110" y="72" text-anchor="middle" font-family="Arial" font-size="15">даты · бюджет · темп</text>
+<path d="M230 52 H300" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="310" y="0" width="220" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="420" y="42" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">2. Маршрут</text>
+<text x="420" y="72" text-anchor="middle" font-family="Arial" font-size="15">Рио · Игуасу · Амазония</text>
+<path d="M540 52 H610" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="620" y="0" width="220" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="730" y="42" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">3. Логистика</text>
+<text x="730" y="72" text-anchor="middle" font-family="Arial" font-size="15">отели · трансферы · гиды</text>
+<path d="M850 52 H920" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="930" y="0" width="200" height="105" rx="16" fill="#111"/>
+<text x="1030" y="42" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">4. Поездка</text>
+<text x="1030" y="72" text-anchor="middle" font-family="Arial" font-size="15" fill="#fff">поддержка и изменения</text>
+</g>
+<rect x="105" y="340" width="990" height="210" rx="24" fill="#f4f4f4" stroke="#111"/>
+<text x="145" y="390" font-family="Arial" font-size="23" font-weight="700">Проверочный вопрос</text>
+<text x="145" y="432" font-family="Arial" font-size="19">Можно ли пройти весь путь через одну ответственную команду,</text>
+<text x="145" y="464" font-family="Arial" font-size="19">если внутренний рейс сдвинулся, отель надо заменить, а программу изменить уже в Бразилии?</text>
+<text x="145" y="515" font-family="Arial" font-size="17">Именно поэтому локальная работа и поддержка входят в модель отдельно от размера каталога.</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+</svg>
