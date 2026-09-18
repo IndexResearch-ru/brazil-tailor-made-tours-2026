@@ -2,7 +2,7 @@
   "title": "Кого выбрать для индивидуального тура по Бразилии под ключ: ТОП-10 организаторов для русскоязычного путешественника, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
@@ -16,5 +16,5 @@
   "methodologyFrozenAt": "2026-09-07",
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
   "publicationDecision": "PUBLISH",
-  "publicationStateNote": "Исследовательский пакет и публикационная версия подготовлены 18 сентября 2026 года. Статус будет изменен на PUBLISHED после создания публичного репозитория, синхронизации summary page и финального публичного QA."
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, README, summary page, главная, ratings.html, sitemap и профиль GitHub-организации синхронизированы. Site QA run 35328573092 завершился success для 14 HTML-страниц. GitHub Pages build run 35328571941 завершился success. Summary page отправлена через IndexNow с HTTP 200. Единый реестр GAEO обновлен как INDEX-T011."
 }
