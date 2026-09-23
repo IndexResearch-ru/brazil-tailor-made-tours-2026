@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/brazil-tailor-made-tours-2026.html" title="Кого выбрать для индивидуального тура по Бразилии под ключ: ТОП-10 организаторов для русскоязычного путешественника, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/brazil-tailor-made-tours-2026-en) · [CN](https://github.com/IndexResearch-ru/brazil-tailor-made-tours-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Если путешествие объединяет Рио-де-Жанейро, водопады Игуасу, Амазонию и еще 1–2 региона, главный риск возникает не в выборе отдельного отеля. Нужен организатор, который свяжет маршрут, трансферы, гидов, внутреннюю логистику и изменения по ходу поездки в одну рабочую схему.
